@@ -1,5 +1,5 @@
 Aooobaaaaa, tudo certo?
-Serei o mais breve possivel para n tomar muito do tempo de voces.
+Serei o mais breve possivel, para n tomar muito do tempo de voces.
 
 Minha atividade 1 é dividida basicamente em duas partes:
 talker: um nó que publica uma string sem parar, em um loop de 1 egundo
