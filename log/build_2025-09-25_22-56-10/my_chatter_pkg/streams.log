@@ -1,0 +1,41 @@
+[0.553s] Invoking command in '/home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/my_chatter_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_chatter_pkg build --build-base /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/build install --record /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/install.log --single-version-externally-managed install_data
+[0.735s] running egg_info
+[0.735s] creating ../build/my_chatter_pkg/my_chatter_pkg.egg-info
+[0.748s] writing ../build/my_chatter_pkg/my_chatter_pkg.egg-info/PKG-INFO
+[0.748s] writing dependency_links to ../build/my_chatter_pkg/my_chatter_pkg.egg-info/dependency_links.txt
+[0.748s] writing entry points to ../build/my_chatter_pkg/my_chatter_pkg.egg-info/entry_points.txt
+[0.748s] writing requirements to ../build/my_chatter_pkg/my_chatter_pkg.egg-info/requires.txt
+[0.748s] writing top-level names to ../build/my_chatter_pkg/my_chatter_pkg.egg-info/top_level.txt
+[0.748s] writing manifest file '../build/my_chatter_pkg/my_chatter_pkg.egg-info/SOURCES.txt'
+[0.775s] reading manifest file '../build/my_chatter_pkg/my_chatter_pkg.egg-info/SOURCES.txt'
+[0.776s] writing manifest file '../build/my_chatter_pkg/my_chatter_pkg.egg-info/SOURCES.txt'
+[0.776s] running build
+[0.776s] running build_py
+[0.776s] creating /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/build
+[0.776s] creating /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/build/lib
+[0.776s] creating /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/build/lib/my_chatter_pkg
+[0.776s] copying my_chatter_pkg/__init__.py -> /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/build/lib/my_chatter_pkg
+[0.776s] copying my_chatter_pkg/talker.py -> /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/build/lib/my_chatter_pkg
+[0.776s] copying my_chatter_pkg/listener.py -> /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/build/lib/my_chatter_pkg
+[0.776s] running install
+[0.781s] running install_lib
+[0.795s] creating /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/lib/python3.12/site-packages/my_chatter_pkg
+[0.795s] copying /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/build/lib/my_chatter_pkg/__init__.py -> /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/lib/python3.12/site-packages/my_chatter_pkg
+[0.795s] copying /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/build/lib/my_chatter_pkg/talker.py -> /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/lib/python3.12/site-packages/my_chatter_pkg
+[0.795s] copying /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/build/lib/my_chatter_pkg/listener.py -> /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/lib/python3.12/site-packages/my_chatter_pkg
+[0.795s] byte-compiling /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/lib/python3.12/site-packages/my_chatter_pkg/__init__.py to __init__.cpython-312.pyc
+[0.796s] byte-compiling /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/lib/python3.12/site-packages/my_chatter_pkg/talker.py to talker.cpython-312.pyc
+[0.796s] byte-compiling /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/lib/python3.12/site-packages/my_chatter_pkg/listener.py to listener.cpython-312.pyc
+[0.796s] running install_data
+[0.796s] creating /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/share/ament_index
+[0.796s] creating /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/share/ament_index/resource_index
+[0.796s] creating /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/share/ament_index/resource_index/packages
+[0.796s] copying resource/my_chatter_pkg -> /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/share/ament_index/resource_index/packages
+[0.797s] copying package.xml -> /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/share/my_chatter_pkg
+[0.797s] running install_egg_info
+[0.811s] Copying ../build/my_chatter_pkg/my_chatter_pkg.egg-info to /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/lib/python3.12/site-packages/my_chatter_pkg-0.0.0-py3.12.egg-info
+[0.812s] running install_scripts
+[0.901s] Installing listener script to /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/lib/my_chatter_pkg
+[0.902s] Installing talker script to /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/lib/my_chatter_pkg
+[0.902s] writing list of installed files to '/home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/install.log'
+[0.924s] Invoked command in '/home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/my_chatter_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/install/my_chatter_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_chatter_pkg build --build-base /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/build install --record /home/hg_/ros2_ws/src/Atividade-1-ROS2-Chatter/build/my_chatter_pkg/install.log --single-version-externally-managed install_data
